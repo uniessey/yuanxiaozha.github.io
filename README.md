@@ -16,13 +16,7 @@
 
 ### Support or Contact
 
-Telegram
+[Telegram](https://t.me/yuanxiaozha)
 
-https://t.me/yuanxiaozha
-
-
-
-Youtube
-
-https://www.youtube.com/channel/UCLyUXIEt4vuyjxY6RoL36kQ
+[Youtube](https://www.youtube.com/channel/UCLyUXIEt4vuyjxY6RoL36kQ)
 
