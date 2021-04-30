@@ -10,9 +10,7 @@
 
 ### Blog
 
-```markdown
 [2021甲骨文云Oracle Cloud搭建V2ray/SS](./2021甲骨文云Oracle Cloud搭建V2ray和SS.md)
-```
 
 ### Support or Contact
 
