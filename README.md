@@ -12,6 +12,8 @@
 
 [2021甲骨文云Oracle Cloud搭建V2ray/SS](./2021甲骨文云Oracle Cloud搭建V2ray和SS.md)
 
+[2021甲骨文云Oracle Cloud搭建trojan](./2021甲骨文云Oracle Cloud搭建trojan.md)
+
 ### Support or Contact
 
 Telegram
