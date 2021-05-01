@@ -14,6 +14,8 @@
 
 [2021甲骨文云Oracle Cloud搭建trojan](./2021甲骨文云Oracle Cloud搭建trojan.md)
 
+[2021使用github搭建免费博客](./2021使用github进行免费博客搭建.md)
+
 ### Support or Contact
 
 [Telegram](https://t.me/yuanxiaozha)
