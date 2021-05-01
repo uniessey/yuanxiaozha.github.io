@@ -1,9 +1,3 @@
-```javascript
-<script data-ad-client="ca-pub-4725190447091823" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-```
-
-
-
 # 使用Github进行免费博客搭建
 
 ### 1、准备工作
