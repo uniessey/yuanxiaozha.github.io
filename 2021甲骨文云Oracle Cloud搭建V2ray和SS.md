@@ -118,7 +118,20 @@ chmod 600 /users/why/ssh-key-2021-04-17.key
 # 1、切换到root用户
 sudo -i
 
-# 安装/卸载
+#开放所有端口
+sudo iptables -P INPUT ACCEPT
+sudo iptables -P FORWARD ACCEPT
+sudo iptables -P OUTPUT ACCEPT
+sudo iptables -F
+
+#Oracle自带的Ubuntu镜像默认设置了Iptable规则，关闭它
+apt-get purge netfilter-persistent
+reboot
+
+#强制删除
+rm -rf /etc/iptables && reboot
+
+# 重启后，安装/卸载v2ray
 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
 
